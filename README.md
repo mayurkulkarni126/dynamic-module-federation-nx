@@ -1,5 +1,4 @@
 
-````markdown
 # Angular Micro Frontends with Nx + Dynamic Module Federation
 
 This project demonstrates a Micro Frontend architecture in Angular using **Nx Workspace** and **Webpack Module Federation**, showcasing the **Dynamic Federation** approach.
